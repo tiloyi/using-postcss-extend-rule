@@ -1,13 +1,8 @@
 import "./style.css";
+import "./main.scss";
 
 document.querySelector("#app").innerHTML = `
-  <div>
-    <h1>Hello Vite!</h1>
-    <div class="card">
-      <button id="counter" type="button"></button>
-    </div>
-    <p class="read-the-docs">
-      Click on the Vite logo to learn more
-    </p>
-  </div>
+  <button type="button" class="mon-bouton-exemple">
+    Ceci est un bouton avec un sélecteur personnalisé <br/>qui @extend les styles du DSFR
+  </button>
 `;

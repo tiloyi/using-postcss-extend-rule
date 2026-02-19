@@ -1,3 +1,8 @@
+/**
+ * DSFR Custom Properties
+ * Ce fichier ne sert qu'en guise d'exemple.
+ * Ces variables sont la plupart du temps fournies par le "core" CSS du DSFR
+ */
 :root {
   --underline-max-width: 100%;
   --underline-hover-width: 0;
