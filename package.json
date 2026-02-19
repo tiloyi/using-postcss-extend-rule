@@ -9,6 +9,12 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "postcss": "^8.5.6",
+    "postcss-extend-rule": "^4.0.0",
+    "sass": "^1.97.3",
     "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "@gouvfr/dsfr": "^1.14.3"
   }
 }
